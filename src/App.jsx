@@ -13,7 +13,7 @@ import { Routes , Route } from 'react-router-dom'
 import LoginPage from './Authentication/LoginPage'
 import Signup from './Authentication/Signup'
 import Navbar from './Compnents/Navbar'
-import SearchPage from './Pages/Searchpage'
+import SearchPage from "./Pages/SearchPage";
 import CartProduct from './Compnents/CartProduct'
 import { useEffect } from 'react'
 import CheckOut from './Pages/CheckOut'
